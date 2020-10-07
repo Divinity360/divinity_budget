@@ -56,7 +56,7 @@ class MyApp extends StatelessWidget {
             },
           ),
         ),
-        initialRoute: isOnboarded ? '/' : Onboarding.routeName,
+        initialRoute: '/',
         home: HomeTabsScreen(),
         routes: {
           EditLabelsScreen.routeName: (_) => EditLabelsScreen(),

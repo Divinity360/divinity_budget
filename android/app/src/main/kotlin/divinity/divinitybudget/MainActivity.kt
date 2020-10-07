@@ -1,4 +1,4 @@
-package rsquared226.budget_my_life
+package divinity.divinitybudget
 
 import io.flutter.embedding.android.FlutterActivity
 
